@@ -83,6 +83,3 @@ Ahora que los datos están en MongoDB, utilizaremos Python para realizar una vis
 - [Documentación de Matplotlib](https://matplotlib.org/stable/contents.html)
 - [Documentación de Pandas](https://pandas.pydata.org/)
 
----
-
-¡Ahora puedes usar esta documentación para tu repositorio de GitHub! Asegúrate de agregar el código en un archivo `README.md` para que sea accesible directamente en la página principal de tu repositorio.
