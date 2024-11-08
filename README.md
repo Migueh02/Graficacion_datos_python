@@ -1,5 +1,3 @@
-Aquí tienes una documentación completa y organizada para tu proyecto en GitHub. Incluye los pasos detallados desde la creación de la base de datos en MongoDB, la importación de un archivo CSV a través de **MongoDB Compass**, y cómo visualizar los datos usando Python.
-
 ---
 
 # Proyecto: Visualización de Datos de Destrucción de Infraestructura de Producción de Drogas
